@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Midterm Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David336428/MidtermWeatherApp.git"
+  },
+  "author": "David Schuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David336428/MidtermWeatherApp/issues"
+  },
+  "homepage": "https://github.com/David336428/MidtermWeatherApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
